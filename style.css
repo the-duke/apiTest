@@ -1,0 +1,23 @@
+
+:root {
+    --windrisesblue:#0096c3;
+    --windrisesgreen: #16a13a;
+}
+
+* {
+    box-sizing: border-box
+}
+html {
+    font-family: 'Mukta Mahee', sans-serif;
+}
+h1 {
+    text-align: center;
+}
+h2 {
+    text-align: center;
+    padding: 1.5rem 2.5rem;
+    background: var(--windrisesblue);
+    margin: 0 0 2rem 0;
+    font-size: 1.5rem;
+    color: #fff;
+}
